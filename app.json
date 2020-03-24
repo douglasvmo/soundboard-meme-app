@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "soundboard meme",
+    "slug": "soundboard-meme",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": ["ios", "android", "web"],
+    "ios": {
+      "bundleIdentifier": "com.douglasOlv.soundboardMeme",
+      "buildNumber": "1.1"
+    },
+    "android": {
+      "package": "com.douglasOlv.soundboardMeme",
+      "versionCode": 1
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#dcdde1"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["assets/*"]
+  }
+}
