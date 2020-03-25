@@ -2,7 +2,7 @@
   SoundBoardMeme
 </h1>
 <p>
-This Project is an app in React Native builded with Expo, it is a board instant buttons with sound efcts and is a little funny actually.
+This Project is an app in React Native builded with Expo, it is a board of instant buttons with sound efcts and, in fact, is a little funny.
  </p>
 
 
@@ -10,10 +10,10 @@ This Project is an app in React Native builded with Expo, it is a board instant 
 <table>
   <tr>
     <td>
-      <img height="450" src="/src/screenshot/screen1.gif">
+      <img height="500" src="/src/screenshot/screen1.gif">
     </td>
     <td>
-      <img height="450" src="/src/screenshot/screen2.gif">
+      <img height="500" src="/src/screenshot/screen2.gif">
     </td>
   </tr>
 </table>
