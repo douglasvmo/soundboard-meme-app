@@ -5,8 +5,7 @@
 This Project is an app in React Native builded with Expo, it is a board of instant buttons with sound efcts and, in fact, is a little funny.
  </p>
 
-
-
+## Screenshots
 <table>
   <tr>
     <td>
@@ -26,6 +25,12 @@ $ yarn install
 # Run with Expo
 $ yarn start 
 ```
+## :rocket: Built With
+- [NodeJS](https://nodejs.org/en/)
+- [React Native](https://facebook.github.io/react-native/)
+- [React Navigation](https://reactnavigation.org/)
+- [Redux](https://redux.js.org/)
+
 ## License
 
 This project is licensed under the MIT License - see the <a href="" target="_blank">LICENSE.md</a> file for details.
